@@ -1,0 +1,196 @@
+{
+  "status": "ok",
+  "data": {
+    "movies": [
+      {
+        "rating": 9.3,
+        "genres": [
+          "Crime",
+          "Drama"
+        ],
+        "language": "English",
+        "title": "The Shawshank Redemption",
+        "url": "https://yts.to/movie/the-shawshank-redemption-1994",
+        "title_long": "The Shawshank Redemption (1994)",
+        "imdb_code": "tt0111161",
+        "id": 674,
+        "state": "ok",
+        "year": 1994,
+        "runtime": 142,
+        "overview": "Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+        "slug": "the-shawshank-redemption-1994",
+        "mpa_rating": "R"
+      },
+      {
+        "rating": 9.2,
+        "genres": [
+          "Crime",
+          "Drama"
+        ],
+        "language": "English",
+        "title": "The Godfather",
+        "url": "https://yts.to/movie/the-godfather-1972",
+        "title_long": "The Godfather (1972)",
+        "imdb_code": "tt0068646",
+        "id": 1726,
+        "state": "ok",
+        "year": 1972,
+        "runtime": 175,
+        "overview": "The story spans the years from 1945 to 1955 and chronicles the fictional Italian-American Corleone crime family. When organized crime family patriarch Vito Corleone barely survives an attempt on his life, his youngest son, Michael, steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+        "slug": "the-godfather-1972",
+        "mpa_rating": "R"
+      },
+      {
+        "rating": 9.1,
+        "genres": [
+          "Crime",
+          "Drama"
+        ],
+        "language": "English",
+        "title": "The Godfather: Part II",
+        "url": "https://yts.to/movie/the-godfather-part-ii-1974",
+        "title_long": "The Godfather: Part II (1974)",
+        "imdb_code": "tt0071562",
+        "id": 1727,
+        "state": "ok",
+        "year": 1974,
+        "runtime": 200,
+        "overview": "The continuing saga of the Corleone crime family tells the story of a young Vito Corleone growing up in Sicily and in 1910s New York; and follows Michael Corleone in the 1950s as he attempts to expand the family business into Las Vegas, Hollywood and Cuba",
+        "slug": "the-godfather-part-ii-1974",
+        "mpa_rating": "R"
+      },
+      {
+        "rating": 9,
+        "genres": [
+          "Action",
+          "Crime"
+        ],
+        "language": "English",
+        "title": "The Dark Knight",
+        "url": "https://yts.to/movie/the-dark-knight-2008",
+        "title_long": "The Dark Knight (2008)",
+        "imdb_code": "tt0468569",
+        "id": 468,
+        "state": "ok",
+        "year": 2008,
+        "runtime": 152,
+        "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+        "slug": "the-dark-knight-2008",
+        "mpa_rating": "PG-13"
+      },
+      {
+        "rating": 8.9,
+        "genres": [
+          "Drama"
+        ],
+        "language": "English",
+        "title": "Fight Club",
+        "url": "https://yts.to/movie/fight-club-1999",
+        "title_long": "Fight Club (1999)",
+        "imdb_code": "tt0137523",
+        "id": 1565,
+        "state": "ok",
+        "year": 1999,
+        "runtime": 139,
+        "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+        "slug": "fight-club-1999",
+        "mpa_rating": "TV-MA"
+      },
+      {
+        "rating": 8.9,
+        "genres": [
+          "Drama"
+        ],
+        "language": "English",
+        "title": "12 Angry Men",
+        "url": "https://yts.to/movie/12-angry-men-1957",
+        "title_long": "12 Angry Men (1957)",
+        "imdb_code": "tt0050083",
+        "id": 1319,
+        "state": "ok",
+        "year": 1957,
+        "runtime": 96,
+        "overview": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+        "slug": "12-angry-men-1957",
+        "mpa_rating": "Not Rated"
+      },
+      {
+        "rating": 8.9,
+        "genres": [
+          "Crime",
+          "Drama"
+        ],
+        "language": "English",
+        "title": "Pulp Fiction",
+        "url": "https://yts.to/movie/pulp-fiction-1994",
+        "title_long": "Pulp Fiction (1994)",
+        "imdb_code": "tt0110912",
+        "id": 742,
+        "state": "ok",
+        "year": 1994,
+        "runtime": 168,
+        "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+        "slug": "pulp-fiction-1994",
+        "mpa_rating": "R"
+      },
+      {
+        "rating": 8.9,
+        "genres": [
+          "Adventure",
+          "Fantasy"
+        ],
+        "language": "English",
+        "title": "The Lord of the Rings: The Return of the King",
+        "url": "https://yts.to/movie/the-lord-of-the-rings-the-return-of-the-king-2003",
+        "title_long": "The Lord of the Rings: The Return of the King (2003)",
+        "imdb_code": "tt0167260",
+        "id": 982,
+        "state": "ok",
+        "year": 2003,
+        "runtime": 201,
+        "overview": "Aragorn is revealed as the heir to the ancient kings as he, Gandalf and the other members of the broken fellowship struggle to save Gondor from Sauron's forces. Meanwhile, Frodo and Sam bring the ring closer to the heart of Mordor, the dark lord's realm.",
+        "slug": "the-lord-of-the-rings-the-return-of-the-king-2003",
+        "mpa_rating": "PG-13"
+      },
+      {
+        "rating": 8.9,
+        "genres": [
+          "Biography",
+          "Drama"
+        ],
+        "language": "English",
+        "title": "Schindler's List",
+        "url": "https://yts.to/movie/schindlers-list-1993",
+        "title_long": "Schindler's List (1993)",
+        "imdb_code": "tt0108052",
+        "id": 1924,
+        "state": "ok",
+        "year": 1993,
+        "runtime": 195,
+        "overview": "Told from the perspective of businessman Oskar Schindler who saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory. Schindler’s List is based on a true story, illustrated in black and white and controversially filmed in many original locations.",
+        "slug": "schindlers-list-1993",
+        "mpa_rating": "R"
+      },
+      {
+        "rating": 8.9,
+        "genres": [
+          "Western"
+        ],
+        "language": "Italian",
+        "title": "The Good, the Bad and the Ugly",
+        "url": "https://yts.to/movie/the-good-the-bad-and-the-ugly-1966",
+        "title_long": "The Good, the Bad and the Ugly (1966)",
+        "imdb_code": "tt0060196",
+        "id": 1634,
+        "state": "ok",
+        "year": 1966,
+        "runtime": 161,
+        "overview": "While the Civil War rages between the Union and the Confederacy, three men – a quiet loner, a ruthless hit man and a Mexican bandit – comb the American Southwest in search of a strongbox containing $200,000 in stolen gold.",
+        "slug": "the-good-the-bad-and-the-ugly-1966",
+        "mpa_rating": "Not Rated"
+      }
+    ],
+    "page_number": 1
+  },
+  "status_message": "Query was successful"
+}
