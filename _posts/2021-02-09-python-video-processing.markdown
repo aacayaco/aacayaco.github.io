@@ -5,8 +5,8 @@ date:   2021-02-09 23:01:18 +0800
 categories: Experiments
 ---
 
-Candidate python library: [Moviepy](https://github.com/Zulko/moviepy)
-Current experiments: [Python Video Processing](https://github.com/aacayaco/python_video_processing)
+- Candidate python library: [Moviepy](https://github.com/Zulko/moviepy)
+- Current experiments: [Python Video Processing](https://github.com/aacayaco/python_video_processing)
 
 ## Goals for exploration
 
