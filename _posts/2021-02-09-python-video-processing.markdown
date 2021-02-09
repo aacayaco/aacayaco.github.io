@@ -6,6 +6,7 @@ categories: Experiments
 ---
 
 Candidate python library: [Moviepy](https://github.com/Zulko/moviepy)
+Current experiments: [Python Video Processing](https://github.com/aacayaco/python_video_processing)
 
 ## Goals for exploration
 
