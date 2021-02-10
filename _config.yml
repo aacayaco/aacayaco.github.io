@@ -25,25 +25,31 @@ twitter_username: aacayaco
 github_username:  aacayaco
 
 # Build settings
-markdown: kramdown
-theme: minima
-plugins:
- - jekyll-feed
+# markdown: kramdown
+theme: just-the-docs
+
+# Sort order for navigation links
+# nav_sort: case_insensitive # default, equivalent to nil
+nav_sort: case_sensitive # Capital letters sorted before lowercase
+
+permalink: pretty
+color_scheme: dark
+
+# plugins:
+# - jekyll-feed
 
 defaults:
 - scope:
     path: "movielist"
   values:
     image: true
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+    
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
+  # ignore:
+  #   envs: all
