@@ -30,7 +30,8 @@ exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "pac
 ]
 
 # Build settings
-# markdown: kramdown
+markdown: kramdown
+remote_theme: pmarsceill/just-the-docs
 theme: just-the-docs
 
 # Sort order for navigation links
