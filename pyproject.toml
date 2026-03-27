@@ -1,0 +1,9 @@
+[project]
+name = "aacayaco-github-io"
+version = "0.1.0"
+description = "Personal portfolio and blog site built with MkDocs Material"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "mkdocs-material>=9.7.6",
+]

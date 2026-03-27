@@ -1,0 +1,42 @@
+site_name: Random Musings
+site_url: https://aacayaco.github.io
+site_author: Adrian Cayaco
+site_description: Learn by doing, reverse engineering and understanding the meaning of each function.
+
+repo_name: aacayaco/aacayaco.github.io
+repo_url: https://github.com/aacayaco/aacayaco.github.io
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: deep purple
+    accent: deep purple
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Posts:
+    - posts/index.md
+    - Discord Bot for Genshin Impact: posts/2021-01-13.md
+    - Python Video Processing: posts/2021-02-09.md
+  - About: about.md
+
+markdown_extensions:
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/aacayaco
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/aacayaco
