@@ -18,7 +18,7 @@ Open [http://127.0.0.1:8000](http://127.0.0.1:8000) in your browser.
 
 ## Deployment
 
-Pushes to `master` automatically deploy to GitHub Pages via GitHub Actions.
+Pushes to `main` automatically deploy to GitHub Pages via GitHub Actions.
 
 To deploy manually:
 
