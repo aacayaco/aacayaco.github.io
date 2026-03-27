@@ -21,7 +21,6 @@ theme:
 nav:
   - Home: index.md
   - Posts:
-    - posts/index.md
     - Discord Bot for Genshin Impact: posts/2021-01-13.md
     - Python Video Processing: posts/2021-02-09.md
   - About: about.md
@@ -31,6 +30,9 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.highlight
   - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - attr_list
   - md_in_html
 
